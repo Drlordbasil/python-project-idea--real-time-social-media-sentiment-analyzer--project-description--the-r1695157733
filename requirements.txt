@@ -1,0 +1,4 @@
+The package requirements for this Python program are:
+- tweepy
+- textblob
+- matplotlib
